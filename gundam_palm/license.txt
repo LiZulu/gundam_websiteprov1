@@ -1,0 +1,8 @@
+Model Information:
+* title:	Gundam Palm
+* source:	https://sketchfab.com/3d-models/gundam-palm-6c9651eb0d6844ae98260cfbef33d557
+* author:	pro76316 (https://sketchfab.com/pro76316)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

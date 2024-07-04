@@ -1,0 +1,274 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4395,
+      "max": [
+        66.70330810546875,
+        1.6545740365982056,
+        89.9820785522461
+      ],
+      "min": [
+        -70.21328735351563,
+        -205.7532958984375,
+        -75.61729431152344
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 52740,
+      "componentType": 5126,
+      "count": 4395,
+      "max": [
+        0.999995231628418,
+        0.9999956488609314,
+        1.0
+      ],
+      "min": [
+        -0.9996664524078369,
+        -0.9991195201873779,
+        -0.9999998807907104
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4395,
+      "max": [
+        0.9992979764938354,
+        0.9993900060653687
+      ],
+      "min": [
+        0.0011289999820291996,
+        0.0011599999852478504
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 10614,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 105480,
+      "componentType": 5126,
+      "count": 4417,
+      "max": [
+        66.70330810546875,
+        1.6545740365982056,
+        89.9820785522461
+      ],
+      "min": [
+        -70.21328735351563,
+        -205.7532958984375,
+        -75.61729431152344
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 158484,
+      "componentType": 5126,
+      "count": 4417,
+      "max": [
+        0.999995231628418,
+        0.9999956488609314,
+        1.0
+      ],
+      "min": [
+        -0.9996664524078369,
+        -0.9991195201873779,
+        -0.9999998807907104
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 35160,
+      "componentType": 5126,
+      "count": 4417,
+      "max": [
+        0.9992979764938354,
+        0.9993900060653687
+      ],
+      "min": [
+        0.0011289999820291996,
+        0.0011599999852478504
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 42456,
+      "componentType": 5125,
+      "count": 10614,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Tigerar1 (https://sketchfab.com/allanromanreyes)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/rx-78gp01-gundam-zephyranthes-95574ea906b44ec6ae3877498db70d91",
+      "title": "RX-78GP01 Gundam Zephyranthes"
+    },
+    "generator": "Sketchfab-15.61.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 84912,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 70496,
+      "byteOffset": 84912,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 211488,
+      "byteOffset": 155408,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 366896,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Material01_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material_0",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material01",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        4.440892098500626e-16,
+        -4.440892098500626e-16,
+        1.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        -4.440892098500626e-16,
+        0.0,
+        1.0,
+        2.220446049250314e-16,
+        -4.4408920985006257e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "RX-78GP01 Gundam Zephyranthes - Ren.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
