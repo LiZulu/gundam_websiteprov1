@@ -1,0 +1,8 @@
+Model Information:
+* title:	RX-79 Gundam Ground Type
+* source:	https://sketchfab.com/3d-models/rx-79-gundam-ground-type-6e87d8143a0e4cc4bac0775c160741af
+* author:	Tigerar1 (https://sketchfab.com/allanromanreyes)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
